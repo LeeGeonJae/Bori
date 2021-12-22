@@ -19,5 +19,7 @@ int main()
 
 	cout << "»ï°¢ÇüÀÇ ³ĞÀÌ´Â " << Area << " ÀÔ´Ï´Ù." << endl;
 
+	cout << "git »ı¼º" << endl;
+
 	return 0;
 }
